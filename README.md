@@ -1,5 +1,7 @@
 # Terminal Journal
 
+> **Disclaimer:** This script was designed for macOS. It will not work natively on Windows without adaptation. For Windows, consider using Git Bash, WSL, or rewriting the script in PowerShell.
+
 This repository contains a simple shell script (`journal.sh`) for maintaining a personal journal directly from your terminal. The script is designed to help you quickly jot down notes, thoughts, or logs, and automatically commit and push your entries to a private GitHub repository for secure, version-controlled storage. It was originally a pet project of mine to learn how to use Bash a little better.
 
 ## Features
